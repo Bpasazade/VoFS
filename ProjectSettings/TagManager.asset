@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Checkpoint
+  - Potion
+  - Skeleton_1
+  - Skeleton_2
+  - Skeleton_3
+  - Skeleton_4
+  - Enemy
+  - Potion_small
+  - Potion_large
+  - Channel
+  - Necromancer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Far
+  - Middle_Far
+  - Middle_Near
+  - Near
+  - Floor
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3214903793
+    locked: 0
+  - name: Far
+    uniqueID: 2647916279
+    locked: 0
+  - name: Middle_Far
+    uniqueID: 692493587
+    locked: 0
+  - name: Middle_Near
+    uniqueID: 125719387
+    locked: 0
+  - name: Near
+    uniqueID: 1018982027
+    locked: 0
+  - name: Floor
+    uniqueID: 1843457223
+    locked: 0
+  - name: Player
+    uniqueID: 3700521207
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
