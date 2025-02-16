@@ -2,7 +2,7 @@
 
 This is a 2D platformer game developed using Unity as part of a one-day development challenge.
 
-[![Gameplay Video](https://img.youtube.com/vi/O_TnJBVCuAM/hqdefault.jpg)](https://youtu.be/O_TnJBVCuAM)
+
 
 ## Overview
 Navigate through levels with classic platforming mechanics—jumping, moving, attacking enemies, and avoiding obstacles. A save mechanic lets you record progress at save points, ensuring you can return to those spots later.
